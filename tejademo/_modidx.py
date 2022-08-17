@@ -33,4 +33,5 @@ d = { 'settings': { 'allowed_cell_metadata_keys': '',
                 'tst_flags': 'notest',
                 'user': 'tejalal',
                 'version': '0.0.1'},
-  'syms': {'tejademo\\core': {'tejademo\\core.foo': 'https://tejalal.github.io/tejademo/tejademo\\core.html#foo'}}}
+  'syms': { 'tejademo\\core': {'tejademo\\core.foo': 'https://tejalal.github.io/tejademo/tejademo\\core.html#foo'},
+            'tejademo\\demo': {'tejademo\\demo.foo2': 'https://tejalal.github.io/tejademo/tejademo\\demo.html#foo2'}}}

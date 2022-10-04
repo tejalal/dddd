@@ -6,3 +6,4 @@ __all__ = ['foo2']
 # %% ..\nbs\01_demo.ipynb 3
 def foo2(): 
     print('hello, nbdev 2')
+    print('hello, nbdev 2')
